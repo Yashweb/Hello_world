@@ -1,2 +1,5 @@
 # Hello_world
-This is my first repository. and teach me what i do in the GITHUB ???
+This is my first repository.
+print("Hello World !!!")
+
+Hello world !!!
